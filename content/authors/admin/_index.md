@@ -29,11 +29,6 @@ social:
     link: https://github.com/alexdlukens
 education:
   courses:
-    - course: "CS450: Computer Operating Systems"
-      institution: Illinois Institute of Design
-    - course: "ECE429: Introduction to VLSI Design"
-      institution: Illinois Institute of Technology
-      year: 2020
     - course: M.S. Computer Engineering (Expected)
       institution: Illinois Institute of Technology
       year: 2022

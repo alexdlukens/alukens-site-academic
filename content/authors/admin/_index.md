@@ -1,7 +1,11 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Illinois Institute of Technology
+    url: iit.edu
+  - name: IEEE Eta Kappa Nu
+    url: http://ieee.iit.edu/
+  - name: Triangle Fraternity
+    url: triangle.org
 superuser: true
 authors:
   - admin
@@ -10,39 +14,35 @@ role: Electrical Engineering Student
 bio: Fourth-Year Undergraduate Electrical Engineer with Emphasis in VLSI
   Hardware Design
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - VLSI Design
+  - Digital Logic
+  - and Computer Architecture
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/littlelukens
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alexdlukens
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "CS450: Computer Operating Systems"
+      institution: Illinois Institute of Design
+    - course: "ECE429: Introduction to VLSI Design"
+      institution: Illinois Institute of Technology
+      year: 2020
+    - course: M.S. Computer Engineering (Expected)
+      institution: Illinois Institute of Technology
+      year: 2022
+    - course: B.S. Electrical Engineering (Expected)
+      institution: Illinois  Institute of Technology
+      year: 2021
 email: ""
 user_groups:
   - Researchers
   - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alexander Lukens is a bright electrical engineering undergraduate currently studying at Illinois Institute of Technology. His personal interests include VLSI Design, Digital Logic, and Computer Architecture. He is a student mentor at the Idea Shop Prototyping Lab, which helps students produce meaningful models and designs for use in professional projects for all majors.

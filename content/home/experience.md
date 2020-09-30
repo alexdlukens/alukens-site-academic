@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 Assist students with safe operation of laboratory and prototyping equipment.
+  
+
   Responsibilities include:
   
   * Supervising Laboratory
@@ -43,6 +45,8 @@ Assist students with safe operation of laboratory and prototyping equipment.
   date_start = "2017-01-01"
   date_end = "2019-01-01"
   description = """Serviced a variety of computing devices for Primary and Secondary education institutions. Common devices included Chromebooks, Apple iPads, Apple Macbooks, and PC Laptops
+
+
   Responsibilities include:
 
   * Performing component level repair of electronic devices

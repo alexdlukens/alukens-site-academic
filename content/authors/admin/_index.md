@@ -39,9 +39,11 @@ education:
     - course: B.S. Electrical Engineering (Expected)
       institution: Illinois  Institute of Technology
       year: 2021
-email: "alukens@hawk.iit.edu"
+email: alukens@hawk.iit.edu
 user_groups:
   - Researchers
   - Visitors
 ---
 Alexander Lukens is a bright electrical engineering undergraduate currently studying at Illinois Institute of Technology. His personal interests include VLSI Design, Digital Logic, and Computer Architecture. He is a student mentor at the Idea Shop Prototyping Lab, which helps students produce meaningful models and designs for use in professional projects for all majors.
+
+Check out my [resumé](media/resume.pdf)

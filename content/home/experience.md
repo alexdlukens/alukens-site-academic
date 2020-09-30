@@ -18,18 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Lab Mentor"
+  company = "Idea Shop Prototyping Lab"
+  company_url = "http://ideashop.iit.edu"
+  location = "Chicago"
+  date_start = "2019-03-01"
+  date_end = "Current"
   description = """
+Assist students with safe operation of laboratory and prototyping equipment
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Supervising Laboratory
+  * Soldering and Breadboard Design
+  * Circuit Debugging and Analysis
+  * 3D Modelling
+  * Computer Numerical Control (CNC) Machine Operation
   """
 
 [[experience]]

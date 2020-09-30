@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-03-01"
   date_end = ""
   description = """
-Assist students with safe operation of laboratory and prototyping equipment
+Assist students with safe operation of laboratory and prototyping equipment.
   Responsibilities include:
   
   * Supervising Laboratory
@@ -36,12 +36,20 @@ Assist students with safe operation of laboratory and prototyping equipment
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Computer Technician"
+  company = "K12 Tech Repairs"
+  company_url = "http://k12techrepairs.com"
+  location = "Indiana"
+  date_start = "2017-01-01"
+  date_end = "2019-01-01"
+  description = """Serviced a variety of computing devices for Primary and Secondary education institutions. Common devices included Chromebooks, Apple iPads, Apple Macbooks, and PC Laptops
+  Responsibilities include:
+
+  * Performing component level repair of electronic devices
+  * Maintaining daily device quota of 10 repairs/day
+  * Develop and utilize quality control measures
+  * Effectively manage stock of replacement components
+
+"""
 
 +++

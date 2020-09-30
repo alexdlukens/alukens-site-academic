@@ -17,7 +17,10 @@ bio: Fourth-Year Undergraduate Electrical Engineer with Emphasis in VLSI
 interests:
   - VLSI Design
   - Digital Logic
-  - and Computer Architecture
+  - Computer Architecture
+  - Long-Distance Running
+  - Exploring the City
+  - Enjoying the Great Outdoors
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,7 +39,7 @@ education:
     - course: B.S. Electrical Engineering (Expected)
       institution: Illinois  Institute of Technology
       year: 2021
-email: ""
+email: "alukens@hawk.iit.edu"
 user_groups:
   - Researchers
   - Visitors

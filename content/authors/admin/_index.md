@@ -4,11 +4,11 @@ role: Electrical Engineering Student
 avatar_filename: dsc_0005.jpg
 organizations:
   - name: Illinois Institute of Technology
-    url: iit.edu
+    url: http://iit.edu
   - name: IEEE Eta Kappa Nu
     url: http://ieee.iit.edu/
   - name: Triangle Fraternity
-    url: triangle.org
+    url: http://triangle.org
 superuser: true
 authors:
   - admin

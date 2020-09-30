@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://ideashop.iit.edu"
   location = "Chicago"
   date_start = "2019-03-01"
-  date_end = "Current"
+  date_end = ""
   description = """
 Assist students with safe operation of laboratory and prototyping equipment
   Responsibilities include:

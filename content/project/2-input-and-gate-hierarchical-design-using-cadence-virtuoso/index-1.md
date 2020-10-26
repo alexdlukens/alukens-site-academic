@@ -3,6 +3,8 @@ title: 2-input AND gate hierarchical design using Cadence Virtuoso
 date: 2020-10-26T18:34:32.124Z
 draft: false
 featured: false
+authors:
+  - Alexander Lukens
 external_link: alukens.com/projects/andgateproject
 image:
   filename: featured

@@ -5,6 +5,8 @@ draft: false
 featured: false
 authors:
   - Alexander Lukens
+categories:
+  - VLSI
 external_link: alukens.com/projects/andgateproject
 image:
   filename: featured

@@ -9,7 +9,7 @@ categories:
   - VLSI
 external_link: 
 image:
-  filename: featured
+  filename: lab-5.pdf
   focal_point: Smart
   preview_only: false
 ---

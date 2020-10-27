@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-For this project, a 2-input NAND gate was designed and implemented in Cadence Virtuoso, and its performance characteristics were examined by utilizing SPICE simulations. The data obtained from the SPICE simulations were then tabulated, and examined to determine the effectiveness of using logical effort to to measure the propagation delay of the gate. Samples were taken using transistors of size 90nm, 180nm, and 270nm.
+For this project, a 2-input NAND gate was designed and implemented in Cadence Virtuoso, and its performance characteristics were examined by utilizing SPICE simulations. The data obtained from the SPICE simulations were then tabulated, and examined to determine the effectiveness of using logical effort to to measure the propagation delay of the gate. Samples were taken using transistors of size 90nm, 180nm, and 270nm. The full report can be found above.

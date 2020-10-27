@@ -7,7 +7,7 @@ authors:
   - Alexander Lukens
 categories:
   - VLSI
-external_link: alukens.com/projects/andgateproject
+external_link: 
 image:
   filename: featured
   focal_point: Smart

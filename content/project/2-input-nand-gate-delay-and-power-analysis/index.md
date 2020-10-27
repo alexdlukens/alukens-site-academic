@@ -6,8 +6,7 @@ draft: false
 featured: false
 external_link: https://alukens.com/project/2-input-nand-gate-delay-and-power-analysis/
 links:
-  - url: https://alukens.com/project/2-Input
-      NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf
+  - url: https://alukens.com/project/2-Input-NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf
     name: Full Report Link
 image:
   filename: featured

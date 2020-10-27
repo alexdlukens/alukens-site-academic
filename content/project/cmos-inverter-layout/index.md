@@ -7,7 +7,7 @@ featured: false
 tags: []
 categories:
   - VLSI
-external_link: https://alukens.com/project/CMOS-Inverter-Layout/
+
 links:
   - url: https://alukens.com/project/CMOS-Inverter-Layout/lab-3-report.pdf
     name: Full Report Link

@@ -1,7 +1,7 @@
 ---
 title: IEEE Embedded Systems Workshop (ESW) 2020
 abstract: "At this multi-day seminar, speakers from international tech companies
-  came together to lucture about the future of embedded systems and emerging
+  came together to lecture about the future of embedded systems and emerging
   technologies. Topics of interest included: debugging via hardware tracing
   (iSYSTEM), VHDL basics (SURF VHDL), and Autonomous Driving Systems (NVIDIA)."
 location: Virtual Sessions

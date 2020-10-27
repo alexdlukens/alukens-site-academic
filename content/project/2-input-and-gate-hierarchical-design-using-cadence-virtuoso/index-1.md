@@ -1,6 +1,6 @@
 ---
 title: 2-input AND gate hierarchical design using Cadence Virtuoso
-subtitle: ECE 429 Intro to VLSI Design
+subtitle: ECE 429 - Intro to VLSI Design
 date: 2020-10-26T18:34:32.124Z
 draft: false
 featured: false

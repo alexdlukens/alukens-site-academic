@@ -4,7 +4,7 @@ subtitle: ECE 429 - Intro to VLSI Design
 date: 2020-10-27T17:39:57.393Z
 draft: false
 featured: false
-external_link: https://alukens.com/project/2-Input NAND-Gate-Delay-and-Power-Analysis/index-1/
+external_link: https://alukens.com/project/2-input-nand-gate-delay-and-power-analysis/
 links:
   - url: https://alukens.com/project/2-Input
       NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf

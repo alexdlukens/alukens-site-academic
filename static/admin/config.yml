@@ -157,7 +157,7 @@ collections:
         name: "categories"
         required: false
         widget: "list"
-      - {label: "External link (optional - replaces link to project page)", name: "external_link", widget: "string"}
+      - {label: "External link (optional - replaces link to project page)", name: "external_link", required: false, widget: "string"}
       - label: Links
         name: links
         required: false

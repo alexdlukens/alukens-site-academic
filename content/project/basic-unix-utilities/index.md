@@ -7,7 +7,7 @@ featured: false
 categories:
   - Coding
 links:
-  - url: https://github.com/IIT-CS450-F20/p1a-unix-warmup-alexdlukens
+  - url: https://github.com/alexdlukens/cs450/tree/master/p1a-unix-warmup-alexdlukens
     name: Github Repository
     icon: fab fa-github
     icon_pack: fab

@@ -5,6 +5,9 @@ date: 2020-10-27T17:39:57.393Z
 draft: false
 featured: false
 
+categories:
+  - VLSI
+
 links:
   - url: https://alukens.com/project/2-Input-NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf
     name: Full Report Link

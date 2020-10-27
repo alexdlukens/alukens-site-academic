@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Where I've Been"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]

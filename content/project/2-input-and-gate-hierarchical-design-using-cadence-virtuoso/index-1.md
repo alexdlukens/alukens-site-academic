@@ -4,8 +4,7 @@ subtitle: ECE 429 - Intro to VLSI Design
 date: 2020-10-26T18:34:32.124Z
 draft: false
 featured: false
-authors:
-  - Alexander Lukens
+
 categories:
   - VLSI
 

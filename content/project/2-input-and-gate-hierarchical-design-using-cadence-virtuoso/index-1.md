@@ -7,9 +7,9 @@ authors:
   - Alexander Lukens
 categories:
   - VLSI
-external_link: https://alukens.com/admin/#/collections/projects/entries/2-input-and-gate-hierarchical-design-using-cadence-virtuoso/index-1
+external_link: https://alukens.com/project/2-input-and-gate-hierarchical-design-using-cadence-virtuoso/index-1/
 links:
-  - url: lab-5.pdf
+  - url: https://alukens.com/project/2-input-and-gate-hierarchical-design-using-cadence-virtuoso/lab-5.pdf/
     name: Full Report Link
 image:
   filename: lab-5.pdf

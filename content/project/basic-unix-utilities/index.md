@@ -6,7 +6,7 @@ draft: false
 featured: false
 categories:
   - Coding
-external_link: https://alukens.com/project/Basic-Unix-Utilities/
+
 links:
   - url: https://github.com/IIT-CS450-F20/p1a-unix-warmup-alexdlukens
     name: Github Repository

@@ -8,6 +8,7 @@ external_link: https://alukens.com/project/2-Input NAND-Gate-Delay-and-Power-Ana
 links:
   - url: https://alukens.com/project/2-Input
       NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf
+    name: Full Report Link
 image:
   filename: featured
   focal_point: Smart

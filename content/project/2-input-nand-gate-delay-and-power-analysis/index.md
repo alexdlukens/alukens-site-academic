@@ -5,6 +5,9 @@ date: 2020-10-27T17:39:57.393Z
 draft: false
 featured: false
 external_link: https://alukens.com/project/2-Input NAND-Gate-Delay-and-Power-Analysis/index-1/
+links:
+  - url: https://alukens.com/project/2-Input
+      NAND-Gate-Delay-and-Power-Analysis/Lab-4-Report.pdf
 image:
   filename: featured
   focal_point: Smart

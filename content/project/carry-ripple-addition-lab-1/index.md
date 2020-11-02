@@ -1,11 +1,13 @@
 ---
-title: Carry-Ripple Addition Lab 1
+title: Carry-Ripple Addition 1
 subtitle: "ECE 429: Intro to VLSI Design"
 date: 2020-11-02T19:21:53.241Z
 draft: false
 featured: false
+tags:
+  - VLSI
 links:
-  - url: alukens.com
+  - url: https://alukens.com/project/carry-ripple-addition-1/lab6.pdf
     name: Full Lab Report
 image:
   filename: featured

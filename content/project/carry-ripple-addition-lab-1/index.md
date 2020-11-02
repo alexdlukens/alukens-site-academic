@@ -7,7 +7,7 @@ featured: false
 tags:
   - VLSI
 links:
-  - url: https://alukens.com/project/carry-ripple-addition-1/lab6.pdf
+  - url: https://alukens.com/project/carry-ripple-addition-lab-1/lab-6.pdf
     name: Full Lab Report
 image:
   filename: featured

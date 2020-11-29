@@ -8,7 +8,7 @@ tags:
   - VLSI
 links:
   - name: Full Report Link
-    url: https://alukens.com/project/carry-ripple-addition-2/lab-8.pdf
+    url: https://alukens.com/project/carry-ripple-addition-3/lab-8.pdf
 image:
   filename: featured
   focal_point: Smart

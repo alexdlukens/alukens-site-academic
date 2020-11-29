@@ -3,7 +3,7 @@ title: Introduction to Standard Cell Based ASIC Design Flow
 subtitle: "ECE 429: Intro to VLSI Design"
 date: 2020-11-29T20:06:13.060Z
 draft: false
-featured: false
+featured: true
 tags:
   - VLSI
 links:

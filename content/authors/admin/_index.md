@@ -44,6 +44,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a bright electrical engineering undergraduate currently studying at Illinois Institute of Technology. My personal interests include VLSI Design, Digital Logic, and Computer Architecture. I am also a student mentor at the Idea Shop Prototyping Lab, which helps students produce meaningful models and designs for use in professional projects for all majors.
+I am a Fourth-year electrical engineering undergraduate currently studying at Illinois Institute of Technology. My personal interests include VLSI Design, Digital Logic, and Computer Architecture. I am also a student mentor at the Idea Shop Prototyping Lab, which helps students produce meaningful models and designs for use in professional projects for all majors.
 
 Check out my [resumé](media/resume.pdf)

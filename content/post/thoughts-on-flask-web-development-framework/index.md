@@ -2,7 +2,7 @@
 title: Thoughts on Flask Web Development Framework
 date: 2021-07-25T20:45:03.067Z
 draft: false
-featured: false
+featured: true
 categories:
   - Python
   - WebDev

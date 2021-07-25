@@ -4,6 +4,8 @@ subtitle: Summer 2021 Project/Developer Position
 date: 2021-07-20T22:47:30.611Z
 draft: false
 featured: true
+categories:
+  - WebDev
 image:
   filename: featured
   focal_point: Smart

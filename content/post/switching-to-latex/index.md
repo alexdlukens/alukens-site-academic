@@ -3,7 +3,7 @@ title: Switching to LaTeX
 subtitle: ""
 date: 2020-10-26T18:21:26.670Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart

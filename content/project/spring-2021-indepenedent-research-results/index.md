@@ -1,5 +1,5 @@
 ---
-title: Spring 2021 Indepenedent Research Results
+title: Spring 2021 Independent Research Results
 date: 2021-07-25T17:28:54.408Z
 draft: false
 featured: false

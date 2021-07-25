@@ -29,8 +29,14 @@ subtitle = ""
 [[feature]]
   icon = "memory"
   icon_pack = "fas"
-  name = "Cadence EDA"
+  name = "Scala & Chisel HDL"
   description = "Moderate"
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Git Version Control"
+  description = "Experienced"
 
 # Uncomment to use emoji icons.
 # [[feature]]

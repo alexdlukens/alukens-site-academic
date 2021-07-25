@@ -7,7 +7,7 @@ categories:
   - Python
   - WebDev
 projects:
-  - IdeaShop
+  - idea-shop-webapp
 image:
   filename: featured
   focal_point: Smart

@@ -1,7 +1,4 @@
 ---
-title: Alexander Lukens
-role: Electrical Engineering Student
-avatar_filename: dsc_0005.jpg
 organizations:
   - name: Illinois Institute of Technology
     url: http://iit.edu
@@ -12,6 +9,9 @@ organizations:
 superuser: true
 authors:
   - admin
+title: Alexander Lukens
+role: Electrical Engineering Student
+avatar_filename: dsc_0005.jpg
 bio: Fourth-Year Undergraduate Electrical Engineer with Emphasis in VLSI
   Hardware Design
 interests:
@@ -33,9 +33,6 @@ social:
     link: https://github.com/alexdlukens
 education:
   courses:
-    - course: M.S. Computer Engineering (Expected)
-      institution: Illinois Institute of Technology
-      year: 2022
     - course: B.S. Electrical Engineering (Expected)
       institution: Illinois  Institute of Technology
       year: 2021

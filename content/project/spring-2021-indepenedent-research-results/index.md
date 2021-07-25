@@ -3,6 +3,9 @@ title: Spring 2021 Independent Research Results
 date: 2021-07-25T17:28:54.408Z
 draft: false
 featured: false
+links:
+  - url: https://alukens.com/project/spring-2021-indepenedent-research-results/research_final_paper.pdf
+    name: Project Documentation/Final Report Link
 image:
   filename: featured
   focal_point: Smart

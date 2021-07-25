@@ -23,12 +23,6 @@ subtitle = ""
 [[feature]]
   icon = "microchip"
   icon_pack = "fas"
-  name = "Verilog"
-  description = "Moderate"  
-  
-[[feature]]
-  icon = "memory"
-  icon_pack = "fas"
   name = "Scala & Chisel HDL"
   description = "Moderate"
 

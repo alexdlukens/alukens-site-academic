@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Chicago"
   date_start = "2021-08-20"
   date_end = ""
-  description """
+  description = """
   Independently supervise ECE Laboratory students during laboratory session
   
   Responsibilities include:

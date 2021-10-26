@@ -6,9 +6,7 @@ draft: false
 featured: false
 tags:
   - VLSI
-links:
-  - url: https://alukens.com/project/ECE-429-Final-Project/Alexander_Lukens_Final_Project.pdf
-    name: Final Report Link
+links: []
 image:
   filename: featured
   focal_point: Smart

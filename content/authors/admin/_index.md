@@ -27,7 +27,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/ALukensParable
+    link: https://twitter.com/alexdlukens
   - icon: github
     icon_pack: fab
     link: https://github.com/alexdlukens

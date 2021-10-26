@@ -11,7 +11,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-During the 2021 Summer semester, I have remained at Illinois Tech to work on the development team for the Idea Shop Safety Quiz and WebApp (<https://dev.ideashop.iit.edu>). This project entails utilizing the Flask Web Development Framework to implement shop safety training and live status information for the Idea Shop.
+During the 2021 Summer semester, I have remained at Illinois Tech to work on the development team for the Idea Shop Safety Quiz and WebApp (<https://ideashop.iit.edu>). This project entails utilizing the Flask Web Development Framework to implement shop safety training and live status information for the Idea Shop.
 
 The WebApp had previously been utilized only for serving interactive quizzes to ensure students are aware of shop safety procedures. Now, the app will serve video content, live information about the status of shop tools, and be a new web "dashboard" for Idea Shop staff and visitors. 
 

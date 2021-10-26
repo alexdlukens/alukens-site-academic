@@ -4,9 +4,7 @@ subtitle: Computer Architecture
 date: 2021-01-03T05:55:42.020Z
 draft: false
 featured: false
-links:
-  - url: https://alukens.com/project/single-cycle-mips-processor/Datapath_Drawing.png
-    name: Datapath Overview (png)
+links: []
 image:
   filename: featured
   focal_point: Smart

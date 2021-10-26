@@ -6,9 +6,7 @@ draft: false
 featured: true
 tags:
   - VLSI
-links:
-  - url: https://alukens.com/project/Introduction-to-Standard-Cell-Based-ASIC-Design-Flow/lab-9.pdf
-    name: Full Report Link
+links: []
 image:
   filename: featured
   focal_point: Smart

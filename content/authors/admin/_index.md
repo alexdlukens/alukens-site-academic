@@ -33,9 +33,11 @@ social:
     link: https://github.com/alexdlukens
 education:
   courses:
-    - course: B.S. Electrical Engineering (Expected)
+    - course: B.S. Electrical Engineering
       institution: Illinois  Institute of Technology
       year: 2021
+    - course: Graduate Degree in ECE (Pursuing)
+      year:2022
 email: alukens@hawk.iit.edu
 user_groups:
   - Researchers

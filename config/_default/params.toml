@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "alukens@hawk.iit.edu"
+email = "alexdlukens@gmail.com"
 phone = "317 409 4685"
 
 # Address

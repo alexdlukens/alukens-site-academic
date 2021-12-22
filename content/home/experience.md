@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://ece.iit.edu"
   location = "Chicago"
   date_start = "2021-08-20"
-  date_end = ""
+  date_end = "2021-12-08"
   description = """
   Independently supervise ECE Laboratory students during laboratory session
   
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "http://ideashop.iit.edu"
   location = "Chicago"
   date_start = "2019-03-01"
-  date_end = ""
+  date_end = "2021-11-25"
   description = """
 Assist students with safe operation of laboratory and prototyping equipment.
   

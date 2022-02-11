@@ -17,6 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Junior Software Engineer"
+  company = "Intelligent Artifacts"
+  company_url = "https://www.intelligent-artifacts.com"
+  location = "New York City"
+  date_start = "2022-02-16"
+  date_end = "Present"
+  description = """
+  Organize and Maintain Docker & Linux Server Infrastructure
+  
+  * Collaborate with Embedded C++ Development Team
+  * Maintain Flask (Python) Web Applications
+  * Utilize Git Version Control to track issues and development
+  """
+
 [[experience]]
   title = "ECE Laboratory Assistant"
   company = "Illinois Institute of Technology"

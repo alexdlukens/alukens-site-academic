@@ -10,7 +10,7 @@ superuser: true
 authors:
   - admin
 title: Alexander Lukens
-role: Electrical Engineering Student
+role: Junior Software Engineer
 avatar_filename: dsc_0005.jpg
 bio: Fourth-Year Undergraduate Electrical Engineer with Emphasis in VLSI
   Hardware Design
@@ -36,9 +36,10 @@ education:
     - course: B.S. Electrical Engineering
       institution: Illinois  Institute of Technology
       year: 2021
-    - course: Graduate Degree in ECE (Pursuing)
+    - course: Professional Certificate in Software Development
+      institution: edX (PennX)
       year: 2022
-email: alukens@hawk.iit.edu
+email: alexdlukens@gmail.com
 user_groups:
   - Researchers
   - Visitors

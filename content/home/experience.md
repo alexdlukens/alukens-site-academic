@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.intelligent-artifacts.com"
   location = "New York City"
   date_start = "2022-02-16"
-  date_end = "Present"
+  date_end = ""
   description = """
   Organize and Maintain Docker & Linux Server Infrastructure
   

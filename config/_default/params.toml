@@ -97,9 +97,8 @@ address = {street = "1267 Hancock St", city = "Brooklyn", region = "NY", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.69270068867", longitude = "-73.91087734376"}
-# 1267 Hancock St. Coordinates 40.692700688674044, -73.91087734376202
-
+coordinates = {latitude = "40.693165665", longitude = "-73.9104869541"}
+# 1267 Hancock St. Coordinates 40.69316566516814, -73.91048695415078
 
 # Directions for visitors to locate you.
 directions = ""

@@ -12,8 +12,7 @@ authors:
 title: Alexander Lukens
 role: Junior Software Engineer
 avatar_filename: dsc_0005.jpg
-bio: Fourth-Year Undergraduate Electrical Engineer with Emphasis in VLSI
-  Hardware Design
+bio: Recent Electrical Engineering Graduate from Illinois Institute of Technology
 interests:
   - VLSI Design
   - Digital Logic
@@ -44,6 +43,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Fourth-year electrical engineering undergraduate currently studying at Illinois Institute of Technology. My personal interests include VLSI Design, Digital Logic, and Computer Architecture. I am also a student mentor at the Idea Shop Prototyping Lab, which helps students produce meaningful models and designs for use in professional projects for all majors.
+I am a recent Electrical Engineering graduate from Illinois Institute of Technology in Chicago. I have now started my career as a Junior Software Engineer at Intelligent Artifacts in the NYC area. In my off time, I continue to pursue my passions in Hardware Design using Chisel and FPGA devices. In the future I hope to provide a complete GUI to assist users in getting started with the Chipyard SoC Design framework.
 
 Check out my [resumé](media/resume.pdf)

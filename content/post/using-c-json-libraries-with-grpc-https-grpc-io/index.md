@@ -1,5 +1,5 @@
 ---
-title: Using C++ JSON Libraries with [gRPC](https://grpc.io/)
+title: Using C++ JSON Libraries with gRPC
 date: 2022-06-28T02:37:00.574Z
 draft: false
 featured: false
@@ -13,7 +13,7 @@ There are several separate C++ libraries that provide functionality for handling
 **An introduction to gRPC is beyond the scope of what I intend to explain here**
 
 ## Context
-The whole reason I am utilizing Drogon in my work is to build a RESTful interface to a gRPC client. Drogon provides the API endpoints that can be accessed from any device capable of sending a HTTP request, and behind-the-scenes a function call is made using gRPC. 
+The whole reason I am utilizing Drogon in my work is to build a RESTful interface to a [gRPC](https://grpc.io) client. Drogon provides the API endpoints that can be accessed from any device capable of sending a HTTP request, and behind-the-scenes a function call is made using gRPC. 
 
 My implementation expects that the user sending the HTTP request passes a JSON representation of the gRPC message in the request. 
 

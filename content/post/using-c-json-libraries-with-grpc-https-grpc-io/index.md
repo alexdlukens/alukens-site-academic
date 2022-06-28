@@ -23,7 +23,7 @@ In Drogon it is possible to retrieve this JSON payload and store it for later us
 
 // Your handler function definition
 void customHandleHttpRequest(const HttpRequestPtr &req,
-							std::function<void (const HttpResponsePtr &)> &&callback)
+std::function<void (const HttpResponsePtr &)> &&callback)
 
 //store the json into a variable
 Json::Value req_json = req->getJsonObject();
@@ -59,7 +59,7 @@ From here, we need to parse this string back into a (JsonCpp) `Json::Value` obje
 ```cpp
 #include <json/reader.h>
 //Make a Json::Reader (depricated but still working?
-//						Maybe use Json::CharReader instead)
+//Maybe use Json::CharReader instead)
 Json::Reader reader;
 
 Json::Value response;

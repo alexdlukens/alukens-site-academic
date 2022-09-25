@@ -4,8 +4,6 @@ organizations:
     url: https://intelligent-artifacts.com
   - name: Illinois Institute of Technology
     url: http://iit.edu
-  - name: IEEE Eta Kappa Nu
-    url: http://ieee.iit.edu/
   - name: Triangle Fraternity
     url: http://triangle.org
 superuser: true

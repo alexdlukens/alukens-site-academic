@@ -4,13 +4,11 @@ organizations:
     url: https://intelligent-artifacts.com
   - name: Illinois Institute of Technology
     url: http://iit.edu
-  - name: IEEE Eta Kappa Nu
-    url: http://ieee.iit.edu/
 superuser: true
 authors:
   - admin
 title: Alexander Lukens
-role: Junior Software Engineer
+role: Software Engineer
 avatar_filename: dsc_0005.jpg
 bio: Electrical Engineering Graduate from Illinois Institute of Technology
 interests:

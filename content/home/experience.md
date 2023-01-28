@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "New York City"
   date_start = "2023-01-01"
   date_end = ""
-  description """
+  description="""
   Planned, developed, and mantained infrastructure for Intelligent Artifacts (IA) Platform. Requires building and verifying multi-stage docker images, deployment of IA Platform backend, MongoDB Database, and UI.  
 
 Incorperated new features with real-time updating functionality via SocketIO and Websockets. Improved performance of critical infrastructure by optimizing code, reducing complexity. Utilized Celery to perform long-running tasks for Flask Webapp, allowing for cancellation of task during execution.

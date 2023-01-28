@@ -4,16 +4,15 @@ organizations:
     url: http://iit.edu
   - name: IEEE Eta Kappa Nu
     url: http://ieee.iit.edu/
-  - name: Triangle Fraternity
-    url: http://triangle.org
 superuser: true
 authors:
   - admin
 title: Alexander Lukens
 role: Junior Software Engineer
 avatar_filename: dsc_0005.jpg
-bio: Recent Electrical Engineering Graduate from Illinois Institute of Technology
+bio: Electrical Engineering Graduate from Illinois Institute of Technology
 interests:
+  - Linux
   - VLSI Design
   - Digital Logic
   - Computer Architecture

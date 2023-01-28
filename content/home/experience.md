@@ -19,12 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Software Engineer"
+  company = "Intelligent Artifacts
+  company_url = "https://www.intelligent-artifacts.com"
+  location = "New York City"
+  date_start = "2023-01-01
+  date_end = ""
+  description """
+  Plan, develop, and mantain infrastructure for Intelligent Artifacts (IA) Platform. Requires building and verifying multi-stage docker images, deployment of IA Platform backend, MongoDB Database, and UI. 
+
+Incorperate new features with real-time updating functionality via SocketIO and Websockets. Improve performance of critical infrastructure by optimizing code, reducing complexity. Utilized Celery to perform long-running tasks for Flask Webapp, allowing for cancellation of task during execution.
+
+
+"""
+[[experience]]
   title = "Junior Software Engineer"
   company = "Intelligent Artifacts"
   company_url = "https://www.intelligent-artifacts.com"
   location = "New York City"
   date_start = "2022-02-16"
-  date_end = ""
+  date_end = "2022-12-31"
   description = """
   Organize and Maintain Docker & Linux Server Infrastructure
   

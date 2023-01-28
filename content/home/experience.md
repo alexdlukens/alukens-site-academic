@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Engineer"
-  company = "Intelligent Artifacts
+  company = "Intelligent Artifacts"
   company_url = "https://www.intelligent-artifacts.com"
   location = "New York City"
   date_start = "2023-01-01

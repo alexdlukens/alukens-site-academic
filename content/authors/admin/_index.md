@@ -1,5 +1,7 @@
 ---
 organizations:
+  - name: Intelligent Artifacts
+    url: https://intelligent-artifacts.com
   - name: Illinois Institute of Technology
     url: http://iit.edu
   - name: IEEE Eta Kappa Nu
@@ -34,14 +36,14 @@ education:
     - course: B.S. Electrical Engineering
       institution: Illinois  Institute of Technology
       year: 2021
-    - course: Professional Certificate in Software Development
-      institution: edX (PennX)
-      year: 2022
+#    - course: Professional Certificate in Software Development
+#      institution: edX (PennX)
+#      year: 2022
 email: alexdlukens@gmail.com
 user_groups:
   - Researchers
   - Visitors
 ---
-I am a recent Electrical Engineering graduate from Illinois Institute of Technology in Chicago. I have now started my career as a Junior Software Engineer at Intelligent Artifacts in the NYC area. In my off time, I continue to pursue my passions in Hardware Design using Chisel and FPGA devices. In the future I hope to provide a complete GUI to assist users in getting started with the Chipyard SoC Design framework.
+I am a recent Electrical Engineering graduate from Illinois Institute of Technology in Chicago. I have now started my career as a Software Engineer at Intelligent Artifacts in the New York City. In my off time, I continue to pursue my passions in Hardware Design using Chisel and FPGA devices. 
 
 Check out my [resumé](media/resume.pdf)

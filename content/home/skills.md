@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "C Programming"
+  name = "C++ Programming"
   description = "Moderate"
   
 [[feature]]
-  icon = "microchip"
+  icon = "python"
   icon_pack = "fas"
-  name = "Scala & Chisel HDL"
+  name = "Python"
   description = "Moderate"
 
 [[feature]]

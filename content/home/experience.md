@@ -100,7 +100,6 @@ Assist students with safe operation of laboratory and prototyping equipment.
   # * Maintaining daily device quota of 10 repairs/day
   # * Develop and utilize quality control measures
   # * Effectively manage stock of replacement components
-
-"""
+#"""
 
 +++

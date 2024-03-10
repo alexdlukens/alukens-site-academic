@@ -37,7 +37,7 @@ Incorperated new features with real-time updating functionality via SocketIO and
   company_url = "https://www.intelligent-artifacts.com"
   location = "New York City"
   date_start = "2022-02-16"
-  date_end = "2022-12-31"
+  date_end = "2023-01-01"
   description = """
   Organize and Maintain Docker & Linux Server Infrastructure
   
@@ -69,7 +69,7 @@ Incorperated new features with real-time updating functionality via SocketIO and
   company = "Idea Shop Prototyping Lab"
   company_url = "http://ideashop.iit.edu"
   location = "Chicago"
-  date_start = "2019-03-01"
+  date_start = "2019-04-01"
   date_end = "2021-11-25"
   description = """
 Assist students with safe operation of laboratory and prototyping equipment.
@@ -84,22 +84,22 @@ Assist students with safe operation of laboratory and prototyping equipment.
   * Computer Numerical Control (CNC) Machine Operation
   """
 
-[[experience]]
-  title = "Computer Technician"
-  company = "K12 Tech Repairs"
-  company_url = "http://k12techrepairs.com"
-  location = "Indiana"
-  date_start = "2017-01-01"
-  date_end = "2019-01-01"
-  description = """Serviced a variety of computing devices for Primary and Secondary education institutions. Common devices included Chromebooks, Apple iPads, Apple Macbooks, and PC Laptops
+# [[experience]]
+#   title = "Computer Technician"
+#   company = "K12 Tech Repairs"
+#   company_url = "http://k12techrepairs.com"
+#   location = "Indiana"
+#   date_start = "2017-01-01"
+#   date_end = "2019-01-01"
+#   description = """Serviced a variety of computing devices for Primary and Secondary education institutions. Common devices included Chromebooks, Apple iPads, Apple Macbooks, and PC Laptops
 
 
-  Responsibilities include:
+  # Responsibilities include:
 
-  * Performing component level repair of electronic devices
-  * Maintaining daily device quota of 10 repairs/day
-  * Develop and utilize quality control measures
-  * Effectively manage stock of replacement components
+  # * Performing component level repair of electronic devices
+  # * Maintaining daily device quota of 10 repairs/day
+  # * Develop and utilize quality control measures
+  # * Effectively manage stock of replacement components
 
 """
 

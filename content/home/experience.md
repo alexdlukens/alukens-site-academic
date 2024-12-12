@@ -19,12 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Site Reliability Engineer"
+  company = "Canonical"
+  company_url = "https://canonical.com"
+  location = "New York City"
+  date_start = "2024-09-03"
+  date_end = ""
+  description="""
+  Contribute as part of IS team at Canonical to maintain production services, enable other developers to accelerate deployments and mitigate security risks. On-call rotation for primary and secondary service support roles. Propose and implement improvements to automation and infrastructure.
+"""
+
+[[experience]]
   title = "Software Engineer"
   company = "Intelligent Artifacts"
   company_url = "https://www.intelligent-artifacts.com"
   location = "New York City"
   date_start = "2023-01-01"
-  date_end = ""
+  date_end = "2024-04-01"
   description="""
   Planned, developed, and mantained infrastructure for Intelligent Artifacts (IA) Platform. Requires building and verifying multi-stage docker images, deployment of IA Platform backend, MongoDB Database, and UI.  
 

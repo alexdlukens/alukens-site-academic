@@ -37,6 +37,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a Site Reliability Engineer at Canonical. I work remotely from the New York City area. In my off time, I continue to pursue my passions in hardware design using Chisel and designing applications in Python. Proud 4 time Marathoner
+I am a Site Reliability Engineer at Canonical. I work remotely from the New York City area. In my off time, I am a long distance runner and proud 4 time marathoner. I also continue to pursue my passions in Python application design, and hardware design in Chisel.
 
 Check out my [resumé](media/resume.pdf)
